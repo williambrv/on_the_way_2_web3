@@ -16,3 +16,4 @@
     我想Web3就是我的机会！
 
 ## 我是如何入门的
+    最初我是通过推特来寻觅Web3信息的。通过这只小蓝鸟，我开始接触到SeeDAO、LXDAO这类组织，并逐渐了解到一些项目，比如：Helium、Deeper  Network、Arweave、Polkadot区块链、Ocean Protocol 、Theta Labs [关于它们的简介](https://mp.weixin.qq.com/s/C9sTBeSLB70ZDFFzF2eugw)，以及当年赫赫有名现在已经退出大陆市场的stepn[关于它](https://stepn.com/)。同时，我读了一些有趣的文章[Web3.0，与中国无关！](http://www.yuanli24.com/news/11842)，还了解到一些不错的Web3相关的资讯网站（巴比特、链捕手）。
